@@ -53,7 +53,7 @@
       (wait)
       (text #:color 7 "" 0 ": Oh, well, about that...")
       (wait)
-      (text #:color 2 "Ako: 'Cause if you've got something on your mind, I'd much rather we forgo the endless back-and-forth.")
+      (text #:color 2 "Ako: " 0 ", if you've got something on your mind, I'd much rather we forgo the endless back-and-forth.")
       (wait)
       (text #:color 7 "" 0 ": You know what? Fair enough.")
       (wait)
